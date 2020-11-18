@@ -1,4 +1,4 @@
-# my_app
+# practice_flutter
 
 A new Flutter project.
 

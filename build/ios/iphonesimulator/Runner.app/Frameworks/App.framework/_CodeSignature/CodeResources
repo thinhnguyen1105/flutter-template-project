@@ -10,7 +10,7 @@
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		i5Ji7JUZHI/+W796Wa5XGwJdw1s=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -18,11 +18,19 @@
 		</data>
 		<key>flutter_assets/LICENSE</key>
 		<data>
-		lL3A8ufTTylM1Cbks5yAsplPfK8=
+		aQgAc80wPjA0ljSjg78YBuTh2uI=
 		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.ttf</key>
 		<data>
 		nIzDzw7hjOThppiX5OleKNAxtqM=
+		</data>
+		<key>flutter_assets/images/perosn.jpeg</key>
+		<data>
+		RxoX7QBfyEUnp5hqJL5oK2kWhHI=
+		</data>
+		<key>flutter_assets/images/spiderman.jpg</key>
+		<data>
+		IwZya3+T8JJ6zmzCVOm0G3/O9l0=
 		</data>
 		<key>flutter_assets/isolate_snapshot_data</key>
 		<data>
@@ -30,7 +38,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		q1R0RVApcqV11EeavPh7T364Quk=
+		H0tnYJbPbnNcGeNO3PSLFii9Wig=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -47,11 +55,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+			i5Ji7JUZHI/+W796Wa5XGwJdw1s=
 			</data>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			cCAfTWq5rT7ojO0whOQYrGt9jw2fGuUbAUe57cJchS4=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -69,11 +77,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lL3A8ufTTylM1Cbks5yAsplPfK8=
+			aQgAc80wPjA0ljSjg78YBuTh2uI=
 			</data>
 			<key>hash2</key>
 			<data>
-			pGz0NEMhD+431pwIRZ+dmCJ0FW5fCiQEr51wtemiPO0=
+			n2ohLY9zgNEYbrSowyGkA90EOIjTjRH6B28304VGZmY=
 			</data>
 		</dict>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.ttf</key>
@@ -85,6 +93,28 @@
 			<key>hash2</key>
 			<data>
 			Wuh7JiGdsCj8cMnXMpa8jtW4ekzRz359zPE0NyQ7iRE=
+			</data>
+		</dict>
+		<key>flutter_assets/images/perosn.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RxoX7QBfyEUnp5hqJL5oK2kWhHI=
+			</data>
+			<key>hash2</key>
+			<data>
+			W+kqx7umZKM/bAzkF3+LiMw/y+mtsDFQg+LZ5PAKqbE=
+			</data>
+		</dict>
+		<key>flutter_assets/images/spiderman.jpg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IwZya3+T8JJ6zmzCVOm0G3/O9l0=
+			</data>
+			<key>hash2</key>
+			<data>
+			OH32T3IVkeMeeOj4XKDwA2yeAwJmm0W96ycmU3osppo=
 			</data>
 		</dict>
 		<key>flutter_assets/isolate_snapshot_data</key>
@@ -102,11 +132,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			q1R0RVApcqV11EeavPh7T364Quk=
+			H0tnYJbPbnNcGeNO3PSLFii9Wig=
 			</data>
 			<key>hash2</key>
 			<data>
-			r3tWID4u5t+4+MVclvYA0m+E3sxLIqTE6TEI7qhDdGo=
+			x1MdSfkANzU2KBgfdMqJCM73dsbA3DE+Z29a3Gcfv1k=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
