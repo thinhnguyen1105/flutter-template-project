@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:practice_flutter/ListFood/index.dart';
 import 'package:practice_flutter/constants.dart';
-import 'package:practice_flutter/widgets/BackgroundImage.dart';
-import 'package:practice_flutter/widgets/MainTitle.dart';
-import 'package:practice_flutter/widgets/NextButton.dart';
 
 void main() => runApp(MyApp());
 
@@ -10,40 +8,25 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+        debugShowCheckedModeBanner: false,
         title: 'Auth Screen',
         theme: ThemeData(
+            fontFamily: "Poppins",
             brightness: Brightness.dark,
             primaryColor: kPrimaryColor,
             scaffoldBackgroundColor: kBackgroundColor,
             textTheme: TextTheme(
+                title: TextStyle(fontWeight: FontWeight.bold),
                 display1:
                     TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
-                button: TextStyle(
-                  color: kPrimaryColor,
-                ),
+                button:
+                    TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
                 headline: TextStyle(
-                    color: Colors.white, fontWeight: FontWeight.normal)),
+                    color: Colors.white, fontWeight: FontWeight.bold)),
             inputDecorationTheme: InputDecorationTheme(
                 enabledBorder: UnderlineInputBorder(
                     borderSide:
                         BorderSide(color: Colors.white.withOpacity(.2))))),
-        home: WelcomeScreen());
-  }
-}
-
-class WelcomeScreen extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-        body: Column(
-      children: <Widget>[
-        BackgroundImage(),
-        Expanded(
-            child: Column(
-          mainAxisAlignment: MainAxisAlignment.spaceBetween,
-          children: <Widget>[MainTitle(), NextButton()],
-        ))
-      ],
-    ));
+        home: ListFood());
   }
 }

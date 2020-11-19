@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:practice_flutter/DashBoard/index.dart';
 import 'package:practice_flutter/constants.dart';
-import 'package:practice_flutter/main.dart';
 
 class ButtonRedirect extends StatelessWidget {
   @override

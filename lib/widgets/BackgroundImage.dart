@@ -9,7 +9,7 @@ class BackgroundImage extends StatelessWidget {
       child: Container(
         decoration: BoxDecoration(
             image: DecorationImage(
-          image: AssetImage("images/spiderman.jpg"),
+          image: AssetImage("assets/images/spiderman.jpg"),
           fit: BoxFit.cover,
           alignment: Alignment.bottomCenter,
         )),
