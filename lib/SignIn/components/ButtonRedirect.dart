@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:practice_flutter/DashBoard/index.dart';
+import 'package:practice_flutter/ListFood/index.dart';
 import 'package:practice_flutter/constants.dart';
 
 class ButtonRedirect extends StatelessWidget {
@@ -9,7 +9,7 @@ class ButtonRedirect extends StatelessWidget {
         child: GestureDetector(
       onTap: () {
         Navigator.push(context, MaterialPageRoute(builder: (context) {
-          return WelcomeScreen();
+          return ListFood();
         }));
       },
       child: Container(
