@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:practice_flutter/ListFood/index.dart';
+import 'package:practice_flutter/ListQuestions/index.dart';
 import 'package:practice_flutter/constants.dart';
 
 void main() => runApp(MyApp());
@@ -27,6 +27,6 @@ class MyApp extends StatelessWidget {
                 enabledBorder: UnderlineInputBorder(
                     borderSide:
                         BorderSide(color: Colors.white.withOpacity(.2))))),
-        home: ListFood());
+        home: ListQuestions());
   }
 }

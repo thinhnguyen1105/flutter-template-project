@@ -29,7 +29,7 @@ class ListFood extends StatelessWidget {
               ),
               Padding(
                 padding: const EdgeInsets.all(20),
-                child: Text("Simple way to find \nTasty Food",
+                child: Text("Simple ways to find \nTasty Food",
                     style: Theme.of(context).textTheme.headline),
               ),
               SingleChildScrollView(
